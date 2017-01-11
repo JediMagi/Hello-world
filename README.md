@@ -1,2 +1,3 @@
 # Hello-world
-test
+
+print "hello world"
